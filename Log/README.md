@@ -1,2 +1,2 @@
-- Console Log tool source.
+- Console Log시 디버깅에 필요한 기본 정보를 출력하게 합니다.
 - 파일명, 힘수명, Source line no, ms 단위 실행시간 기본으로 표시하도록 합니다.
