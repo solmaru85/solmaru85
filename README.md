@@ -1,3 +1,4 @@
-- My name is Wonsam Lim
-- I mainly use C++ and Java languages.
-- I am a developer who writes apps on Linux (Embedded), Windows, MAC and iOS systems.
+# Profile
+- Name     : Wonsam Lim ( 임원삼 )
+- E-Mail   : solmaru85@gmail.com, wslim65@hotmail.com, wslim@dareesoft.com
+- Language : C++/C, Java, PHP, Objective-C ...
