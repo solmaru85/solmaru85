@@ -1,0 +1,3 @@
+- My name is Wonsam Lim
+- I mainly use C++ and Java languages.
+- I am a developer who writes apps on Linux (Embedded), Windows, MAC and iOS systems.
