@@ -1,3 +1,2 @@
-- My name is Wonsam Lim
-- I mainly use C++ and Java languages.
-- I am a developer who writes apps on Linux (Embedded), Windows, MAC and iOS systems.
+- Console Log tool source.
+- 파일명, 힘수명, Source line no, ms 단위 실행시간 기본으로 표시하도록 합니다.
